@@ -1,0 +1,1 @@
+add_library(Car STATIC Car.cpp)
